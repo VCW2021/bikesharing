@@ -19,3 +19,4 @@ The data shpws, that inventory use and maintenance maybe an issue to analyize in
 ![image](https://user-images.githubusercontent.com/86276329/141742532-94a11e53-69ed-4fb6-a644-6ac794365c49.png)
 ![image](https://user-images.githubusercontent.com/86276329/141742738-3245bafc-830e-4028-b783-83b2875daa97.png)
 
+[Link to Story](https://public.tableau.com/app/profile/viviane2084/viz/NYC_Citibike_Challenge_16367011464340/Story1?publish=yes)
