@@ -14,7 +14,8 @@ Results: Using the visualizations and converting the date gave the correct time 
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 CitiBike Analysis tells that more than 80% are Subscribers, with an ~19% or regular non-subscribers, that data creates a new need, such better user experiance interaction in the future. Total of 65% General Male use, 25% General Female with an Unknown gender that relies on non-subscribers users. In addition, Peak by Gener spike on same time frame, and Top 10 Start and Ending locations are on same zone (that's really good!)
-
+![image](https://user-images.githubusercontent.com/86276329/141743615-b7454a70-d671-465f-a172-7d684e880216.png)
+The data shpws, that inventory use and maintenance maybe an issue to analyize in the future since locations are different from time to time.
 ![image](https://user-images.githubusercontent.com/86276329/141742532-94a11e53-69ed-4fb6-a644-6ac794365c49.png)
 ![image](https://user-images.githubusercontent.com/86276329/141742738-3245bafc-830e-4028-b783-83b2875daa97.png)
 
